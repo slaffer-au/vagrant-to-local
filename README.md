@@ -1,8 +1,8 @@
 # Vagrant to Local
-Make your Vagrant boxes easily accessible for local applications.
+_Make your Vagrant boxes easily accessible for local applications._
 
 ####
-_This script copies the local Vagrant box VM details to your ~/.ssh/config file so they can be accessed by applications locally on your machine such as Ansible. This script works on Linux and Mac only._
+This script copies the local Vagrant box VM details to your ~/.ssh/config file so they can be accessed by applications locally on your machine such as Ansible. This script works on Linux and Mac only.
 
 ### Usage:
 Change to a Vagrant directory and run the script. 
